@@ -6,7 +6,7 @@ public class Test1 {
     }
     public boolean equals(Object anObject) {
         //if (this == anObject) {
-        System.out.println();
+        System.out.println(1);
             return true;
        // }
     }
